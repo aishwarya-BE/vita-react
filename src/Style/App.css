@@ -1,0 +1,36 @@
+
+body {
+    background-color: white;
+}
+
+.heading {
+    text-align: center;
+    color: rgb(57, 13, 13);
+    margin: 30px;
+    font-weight: bold;
+}
+
+.description {
+    text-align: center;
+    color: gray;
+}
+
+.card {
+    height: 100%;
+    margin-bottom: 10px;
+    box-shadow: 0px 3px 8px gray;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    color: brown;
+    font-weight: bold;
+}
+
+.price {
+    color: green;
+}
